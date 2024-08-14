@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CDiazCuadro (Chris for friends ;D )
 - 👀 I’m interested in FE simulation and PINNs of biomechanics systems.
-- 🌱 I’m currently a PhD student in biomechanics
+- 🌱 I’m currently a PhD candidate in biomechanics
 - 📫 How to reach me: cdiaz@fing.edu.uy
 
 <!---
